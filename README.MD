@@ -30,3 +30,6 @@ Komponen yang Dibutuhkan
 ## Kesimpulan
 
 Dengan menggunakan alat monitoring KWh meter berbasis ESP32 dan sensor PZEM-004T ini, Anda dapat memantau konsumsi daya listrik secara real-time dari mana saja. Data yang terkirim ke Google Spreadsheet memungkinkan analisis dan pemantauan yang lebih mudah dan fleksibel. Alat ini cocok untuk penggunaan rumah tangga maupun industri kecil yang memerlukan pemantauan konsumsi energi secara efisien.
+
+
+#Sarah
